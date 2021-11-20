@@ -4,3 +4,5 @@ online commit
 Hi bro 
 =======
 >>>>>>> parent of 4a16f76... Added first line
+
+new feature for demo .txt
