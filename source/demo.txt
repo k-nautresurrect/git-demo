@@ -1,3 +1,6 @@
+<<<<<<< HEAD
 git demo for learning purpose
 online commit
 Hi bro 
+=======
+>>>>>>> parent of 4a16f76... Added first line
